@@ -69,12 +69,11 @@
 [1조 멀티클라우드 프로젝트(완료 보고서)](https://drive.google.com/open?id=1c2Odd6tV_gUg_bTxNvD192Gmda3Ds1PY&usp=drive_copy) <br>
 [1조_멀티클라우드 관리 및 자동화 계획서ver0.1](https://drive.google.com/open?id=1IdNvThIcQMhrGWBrOkzb4_fQy4xhLx2YYmDZl1IMvEk&usp=drive_copy) <br>
 [1조_멀티클라우드 완료 보고서ver0.1](https://drive.google.com/open?id=1IbYQRY5OjWDt6cRosDhN_8XdksnCf47-&usp=drive_copy) <br>
-https://drive.google.com/open?id=1ejscTCiaoCB1ebPzTlfKQi13bQv70EkC&usp=drive_copy
-https://drive.google.com/open?id=1Az3-ayYmiSbC8vAbrGw3G3SK6e4v7_u1&usp=drive_copy
-https://drive.google.com/open?id=1YGvcgIiBqADQFmv6-gro4kR8kb0tGEVR&usp=drive_copy
-https://drive.google.com/open?id=1aBHUMumWXXz4b5uc8qxxGU73aND-vDeN&usp=drive_copy
+[1조_멀티클라우드 장애 대응](https://drive.google.com/open?id=1ejscTCiaoCB1ebPzTlfKQi13bQv70EkC&usp=drive_copy) <br>
+[1조_멀티클라우드 테스트 계획서 ver0.3](https://drive.google.com/open?id=1Az3-ayYmiSbC8vAbrGw3G3SK6e4v7_u1&usp=drive_copy) <br>
+[1조_멀티클라우드구축계획서_ver1.5](https://drive.google.com/open?id=1aBHUMumWXXz4b5uc8qxxGU73aND-vDeN&usp=drive_copy) <br>
 https://drive.google.com/open?id=1y58Dr4efIYPdioC5XDLtI7exBOm_d995&usp=drive_copy
-https://drive.google.com/open?id=1LlY7Aiv_-iQypsMf1LpCwDQ5QrxL5tpx&usp=drive_copy
+[1조_아키텍처 설계서_ver1.3](https://drive.google.com/open?id=1LlY7Aiv_-iQypsMf1LpCwDQ5QrxL5tpx&usp=drive_copy)
 https://drive.google.com/open?id=1stYgic8ZpFay2u5GF0DtJKf0cxb7wNFt&usp=drive_copy
 https://drive.google.com/open?id=1kB4SSMu9yP8RJM5ig141n68J9V0mXBpa&usp=drive_copy
 https://drive.google.com/open?id=1g2XXvO8TtxXRtFiL7Yz6WcHmWfmQN38o&usp=drive_copy
