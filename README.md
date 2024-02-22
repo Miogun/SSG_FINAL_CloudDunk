@@ -61,7 +61,7 @@
 
 ## 서류
 
-<div align="center">
+<div align="left">
   
 클라우드 서류 <br>
 
