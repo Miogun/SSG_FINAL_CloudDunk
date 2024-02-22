@@ -66,5 +66,13 @@
   
 클라우드 서류 <br>
 
+[1조_WBS.pdf](https://drive.google.com/open?id=1VffmMNIXM5STCy8q1v-S4pAu0HKjZ3qX&usp=drive_copy)<br>
+[1조_프로젝트 수행계획서.pdf](https://drive.google.com/open?id=1W3-gidlkp1yClZnAHhWM28P1BqccEULt&usp=drive_copy)<br>
+[1조_아키텍처 설계서.pdf](https://drive.google.com/open?id=1f3WN_dD_9BPJsFlrsilxHsta8rOqzODI&usp=drive_copy)<br>
+[1조_클라우드_비교 및 선정 보고서.pdf](https://drive.google.com/open?id=1-mn5Aem1RCmP8dIP99lMn4CebJeGENLQ&usp=drive_copy)<br>
+[1조_멀티클라우드_구축계획서.pdf](https://drive.google.com/open?id=1oZvUtKjzz0QU4CWzB3DV55diqlx7yjBA&usp=drive_copy)<br>
+[1조_멀티클라우드 테스트 계획서.pdf](https://drive.google.com/open?id=1uTipowWZLXa_MNTm7P64HER0zwnHssFX&usp=drive_copy)<br>
+[1조_멀티클라우드 관리 및 자동화 계획서.pdf](https://drive.google.com/open?id=15fgq8o7PYZo1umDcicmj6sLmq47pcweZ&usp=drive_copy)<br>
+[1조 멀티클라우드 프로젝트(완료 보고서).pdf](https://drive.google.com/open?id=171m_pIuWOgwfBLv7MUG4I0n-5o-0KGTX&usp=drive_copy)<br>
 
 </div>
