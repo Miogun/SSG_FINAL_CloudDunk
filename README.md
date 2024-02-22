@@ -62,9 +62,7 @@
 - 
 ## 서류
 
-<div align="left">
-  
-클라우드 서류 <br>
+<div align="left">  
 
 [1조_WBS.pdf](https://drive.google.com/open?id=1VffmMNIXM5STCy8q1v-S4pAu0HKjZ3qX&usp=drive_copy)<br>
 [1조_프로젝트 수행계획서.pdf](https://drive.google.com/open?id=1W3-gidlkp1yClZnAHhWM28P1BqccEULt&usp=drive_copy)<br>
