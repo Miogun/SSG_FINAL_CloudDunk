@@ -58,3 +58,30 @@
 - Terraform을 활용한 추가 사용자 자동화
 - 모니터링 관리자 알람 시스템 부재
 - 비용적 측면에서의 최적화 필요
+
+- 
+## 서류
+
+<div align="left">
+  
+클라우드 서류 <br>
+
+[1조 멀티클라우드 프로젝트(완료 보고서)](https://drive.google.com/open?id=1c2Odd6tV_gUg_bTxNvD192Gmda3Ds1PY&usp=drive_copy) <br>
+[1조_멀티클라우드 관리 및 자동화 계획서ver0.1](https://drive.google.com/open?id=1IdNvThIcQMhrGWBrOkzb4_fQy4xhLx2YYmDZl1IMvEk&usp=drive_copy) <br>
+[1조_멀티클라우드 완료 보고서ver0.1](https://drive.google.com/open?id=1IbYQRY5OjWDt6cRosDhN_8XdksnCf47-&usp=drive_copy) <br>
+https://drive.google.com/open?id=1ejscTCiaoCB1ebPzTlfKQi13bQv70EkC&usp=drive_copy
+https://drive.google.com/open?id=1Az3-ayYmiSbC8vAbrGw3G3SK6e4v7_u1&usp=drive_copy
+https://drive.google.com/open?id=1YGvcgIiBqADQFmv6-gro4kR8kb0tGEVR&usp=drive_copy
+https://drive.google.com/open?id=1aBHUMumWXXz4b5uc8qxxGU73aND-vDeN&usp=drive_copy
+https://drive.google.com/open?id=1y58Dr4efIYPdioC5XDLtI7exBOm_d995&usp=drive_copy
+https://drive.google.com/open?id=1LlY7Aiv_-iQypsMf1LpCwDQ5QrxL5tpx&usp=drive_copy
+https://drive.google.com/open?id=1stYgic8ZpFay2u5GF0DtJKf0cxb7wNFt&usp=drive_copy
+https://drive.google.com/open?id=1kB4SSMu9yP8RJM5ig141n68J9V0mXBpa&usp=drive_copy
+https://drive.google.com/open?id=1g2XXvO8TtxXRtFiL7Yz6WcHmWfmQN38o&usp=drive_copy
+https://drive.google.com/open?id=1SCup9ixZQEePSiGxcmPIPI3kk2Gm5QRh&usp=drive_copy
+https://drive.google.com/open?id=1R2u26nCgqu0DvKsFS0k9Fc6njGfhYAc5&usp=drive_copy
+https://drive.google.com/open?id=1alXV9uNZb28rDx5-gsLHs5bxpZmom4zP&usp=drive_copy
+https://drive.google.com/open?id=1t9cHWasfsiGHJmJqqEnGdrXWI9BPcUbp&usp=drive_copy
+https://drive.google.com/open?id=16h69pJIAZpBVsFN14Zep8HoXofterW4fitl4Iyfoye8&usp=drive_copy
+
+</div>
