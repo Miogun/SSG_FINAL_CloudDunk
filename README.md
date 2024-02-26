@@ -75,6 +75,7 @@
 
 [1조_클라우드_비교 및 선정 보고서.pdf](https://drive.google.com/open?id=1-mn5Aem1RCmP8dIP99lMn4CebJeGENLQ&usp=drive_copy)<br>
 <br>
+![image](https://github.com/Miogun/ssg_CloudDunk/assets/75124706/221c29fc-ef6b-4108-bdb6-3257edafea42)
 
 
 [1조_멀티클라우드_구축계획서.pdf](https://drive.google.com/open?id=1oZvUtKjzz0QU4CWzB3DV55diqlx7yjBA&usp=drive_copy)<br>
