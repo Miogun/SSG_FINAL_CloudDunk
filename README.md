@@ -22,6 +22,11 @@
 
 <br>
 
+## 수행 역할 기술 정리 - Detail
+[NCP](https://github.com/Miogun/SSG_FINAL_NCP)
+
+<br>
+
 ## 기술 스택
 - Cloud Infra
 
