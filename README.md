@@ -70,6 +70,7 @@
 
 [1조_아키텍처 설계서.pdf](https://drive.google.com/open?id=1f3WN_dD_9BPJsFlrsilxHsta8rOqzODI&usp=drive_copy)<br>
 <br>
+![image](https://github.com/Miogun/ssg_CloudDunk/assets/75124706/ebc0044a-2046-4a71-92c4-53789385b759)
 
 
 [1조_클라우드_비교 및 선정 보고서.pdf](https://drive.google.com/open?id=1-mn5Aem1RCmP8dIP99lMn4CebJeGENLQ&usp=drive_copy)<br>
