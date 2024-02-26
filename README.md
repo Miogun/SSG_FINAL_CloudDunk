@@ -86,6 +86,7 @@
 
 [1조_멀티클라우드 테스트 계획서.pdf](https://drive.google.com/open?id=1uTipowWZLXa_MNTm7P64HER0zwnHssFX&usp=drive_copy)<br>
 <br>
+![image](https://github.com/Miogun/ssg_CloudDunk/assets/75124706/163fe026-1d5e-4e1a-935e-cb31f1f72832)
 
 
 [1조_멀티클라우드 관리 및 자동화 계획서.pdf](https://drive.google.com/open?id=15fgq8o7PYZo1umDcicmj6sLmq47pcweZ&usp=drive_copy)<br>
