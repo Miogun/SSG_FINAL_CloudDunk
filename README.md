@@ -65,6 +65,8 @@
 <div align="left">  
 
 [1조_WBS.pdf](https://drive.google.com/open?id=1VffmMNIXM5STCy8q1v-S4pAu0HKjZ3qX&usp=drive_copy)<br>
+![image](https://github.com/Miogun/ssg_CloudDunk/assets/75124706/519172d5-7c3c-47c0-a6af-90a1743b8b4b)
+
 [1조_프로젝트 수행계획서.pdf](https://drive.google.com/open?id=1W3-gidlkp1yClZnAHhWM28P1BqccEULt&usp=drive_copy)<br>
 [1조_아키텍처 설계서.pdf](https://drive.google.com/open?id=1f3WN_dD_9BPJsFlrsilxHsta8rOqzODI&usp=drive_copy)<br>
 [1조_클라우드_비교 및 선정 보고서.pdf](https://drive.google.com/open?id=1-mn5Aem1RCmP8dIP99lMn4CebJeGENLQ&usp=drive_copy)<br>
