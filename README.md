@@ -1,4 +1,4 @@
-![image](https://github.com/Miogun/ssg_CloudDunk/assets/75124706/a6a0f537-a8ed-4b8f-ac03-853b86c02ad0)# 멀티클라우드 운영 및 자동화 프로젝트
+# 멀티클라우드 운영 및 자동화 프로젝트
 > AWS + NCP
 
 <br>
@@ -96,7 +96,7 @@
 [1조 멀티클라우드 프로젝트(완료 보고서).pdf](https://drive.google.com/open?id=171m_pIuWOgwfBLv7MUG4I0n-5o-0KGTX&usp=drive_copy)<br>
 <br>
 
-
+![image](https://github.com/Miogun/ssg_CloudDunk/assets/75124706/a6a0f537-a8ed-4b8f-ac03-853b86c02ad0)
 </div>
 
 ## 프로젝트 개선 방향
