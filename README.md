@@ -91,12 +91,15 @@
 
 [1조_멀티클라우드 관리 및 자동화 계획서.pdf](https://drive.google.com/open?id=15fgq8o7PYZo1umDcicmj6sLmq47pcweZ&usp=drive_copy)<br>
 <br>
+![image](https://github.com/Miogun/ssg_CloudDunk/assets/75124706/12f04e3c-c4db-4520-967f-13d3033cf571)
 
 
 [1조 멀티클라우드 프로젝트(완료 보고서).pdf](https://drive.google.com/open?id=171m_pIuWOgwfBLv7MUG4I0n-5o-0KGTX&usp=drive_copy)<br>
 <br>
+![image](https://github.com/Miogun/ssg_CloudDunk/assets/75124706/8a59fdd0-5f47-49f2-8737-b8285c3733cc)
+![image](https://github.com/Miogun/ssg_CloudDunk/assets/75124706/d113fa98-bd70-4de7-8e81-b251a4d95688)
 
-![image](https://github.com/Miogun/ssg_CloudDunk/assets/75124706/a6a0f537-a8ed-4b8f-ac03-853b86c02ad0)
+
 </div>
 
 ## 프로젝트 개선 방향
