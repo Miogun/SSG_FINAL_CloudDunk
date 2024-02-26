@@ -70,6 +70,7 @@
 
 [1조_프로젝트 수행계획서.pdf](https://drive.google.com/open?id=1W3-gidlkp1yClZnAHhWM28P1BqccEULt&usp=drive_copy)<br>
 <br>
+![image](https://github.com/Miogun/ssg_CloudDunk/assets/75124706/44d31fc9-6157-4c35-8942-7cc3433d3fe3)
 
 
 [1조_아키텍처 설계서.pdf](https://drive.google.com/open?id=1f3WN_dD_9BPJsFlrsilxHsta8rOqzODI&usp=drive_copy)<br>
