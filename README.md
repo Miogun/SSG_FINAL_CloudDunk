@@ -58,42 +58,43 @@
 ## 서류
 
 <div align="left">  
-
+### 1 - WBS
 [1조_WBS.pdf](https://drive.google.com/open?id=1VffmMNIXM5STCy8q1v-S4pAu0HKjZ3qX&usp=drive_copy)<br>
 <br>
 ![image](https://github.com/Miogun/ssg_CloudDunk/assets/75124706/519172d5-7c3c-47c0-a6af-90a1743b8b4b)
 
+### 2 - 수행 계획서 
 [1조_프로젝트 수행계획서.pdf](https://drive.google.com/open?id=1W3-gidlkp1yClZnAHhWM28P1BqccEULt&usp=drive_copy)<br>
 <br>
 ![image](https://github.com/Miogun/ssg_CloudDunk/assets/75124706/44d31fc9-6157-4c35-8942-7cc3433d3fe3)
 
-
+### 3 - 아키텍처 설계서
 [1조_아키텍처 설계서.pdf](https://drive.google.com/open?id=1f3WN_dD_9BPJsFlrsilxHsta8rOqzODI&usp=drive_copy)<br>
 <br>
 ![image](https://github.com/Miogun/ssg_CloudDunk/assets/75124706/ebc0044a-2046-4a71-92c4-53789385b759)
 
-
+### 4 - 클라우드 비교 및 선정 보고서 
 [1조_클라우드_비교 및 선정 보고서.pdf](https://drive.google.com/open?id=1-mn5Aem1RCmP8dIP99lMn4CebJeGENLQ&usp=drive_copy)<br>
 <br>
 ![image](https://github.com/Miogun/ssg_CloudDunk/assets/75124706/221c29fc-ef6b-4108-bdb6-3257edafea42)
 
-
+### 5 - 멀티클라우드 구축 계획서 
 [1조_멀티클라우드_구축계획서.pdf](https://drive.google.com/open?id=1oZvUtKjzz0QU4CWzB3DV55diqlx7yjBA&usp=drive_copy)<br>
 <br>
 ![image](https://github.com/Miogun/ssg_CloudDunk/assets/75124706/90463f49-5e4a-4e09-89a3-e037f6908bbf)
 ![image](https://github.com/Miogun/ssg_CloudDunk/assets/75124706/5cc0508f-1a7b-472e-801f-b5fdb39db56d)
 
-
+### 6 - 멀티클라우드 테스트 계획서
 [1조_멀티클라우드 테스트 계획서.pdf](https://drive.google.com/open?id=1uTipowWZLXa_MNTm7P64HER0zwnHssFX&usp=drive_copy)<br>
 <br>
 ![image](https://github.com/Miogun/ssg_CloudDunk/assets/75124706/163fe026-1d5e-4e1a-935e-cb31f1f72832)
 
-
+### 7 - 멀티클라우드 관리 및 자동화 계획서
 [1조_멀티클라우드 관리 및 자동화 계획서.pdf](https://drive.google.com/open?id=15fgq8o7PYZo1umDcicmj6sLmq47pcweZ&usp=drive_copy)<br>
 <br>
 ![image](https://github.com/Miogun/ssg_CloudDunk/assets/75124706/12f04e3c-c4db-4520-967f-13d3033cf571)
 
-
+### 8 - 멀티클라우드 프로젝트(완료 보고서) 
 [1조 멀티클라우드 프로젝트(완료 보고서).pdf](https://drive.google.com/open?id=171m_pIuWOgwfBLv7MUG4I0n-5o-0KGTX&usp=drive_copy)<br>
 <br>
 ![image](https://github.com/Miogun/ssg_CloudDunk/assets/75124706/8a59fdd0-5f47-49f2-8737-b8285c3733cc)
