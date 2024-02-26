@@ -54,12 +54,7 @@
 ## Infrastructure
 <img src="https://github.com/kksung/ssg_CloudDunk/assets/110016279/4c53d03d-df29-412a-bc19-43e4090d36c0" width=870 height=550>
 
-## 프로젝트 개선 방향
-- Terraform을 활용한 추가 사용자 자동화
-- 모니터링 관리자 알람 시스템 부재
-- 비용적 측면에서의 최적화 필요
 
-- 
 ## 서류
 
 <div align="left">  
@@ -98,3 +93,8 @@
 
 
 </div>
+
+## 프로젝트 개선 방향
+- Terraform을 활용한 추가 사용자 자동화
+- 모니터링 관리자 알람 시스템 부재
+- 비용적 측면에서의 최적화 필요
