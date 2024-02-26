@@ -1,4 +1,4 @@
-# 멀티클라우드 운영 및 자동화 프로젝트
+![image](https://github.com/Miogun/ssg_CloudDunk/assets/75124706/a6a0f537-a8ed-4b8f-ac03-853b86c02ad0)# 멀티클라우드 운영 및 자동화 프로젝트
 > AWS + NCP
 
 <br>
@@ -80,6 +80,8 @@
 
 [1조_멀티클라우드_구축계획서.pdf](https://drive.google.com/open?id=1oZvUtKjzz0QU4CWzB3DV55diqlx7yjBA&usp=drive_copy)<br>
 <br>
+![image](https://github.com/Miogun/ssg_CloudDunk/assets/75124706/90463f49-5e4a-4e09-89a3-e037f6908bbf)
+![image](https://github.com/Miogun/ssg_CloudDunk/assets/75124706/5cc0508f-1a7b-472e-801f-b5fdb39db56d)
 
 
 [1조_멀티클라우드 테스트 계획서.pdf](https://drive.google.com/open?id=1uTipowWZLXa_MNTm7P64HER0zwnHssFX&usp=drive_copy)<br>
